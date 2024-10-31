@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/counter-sprint01exam/static/css/main.4d4ab346.css",
+    "main.js": "/counter-sprint01exam/static/js/main.889d26a8.js",
+    "static/js/453.6c38c28a.chunk.js": "/counter-sprint01exam/static/js/453.6c38c28a.chunk.js",
+    "index.html": "/counter-sprint01exam/index.html",
+    "main.4d4ab346.css.map": "/counter-sprint01exam/static/css/main.4d4ab346.css.map",
+    "main.889d26a8.js.map": "/counter-sprint01exam/static/js/main.889d26a8.js.map",
+    "453.6c38c28a.chunk.js.map": "/counter-sprint01exam/static/js/453.6c38c28a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d4ab346.css",
+    "static/js/main.889d26a8.js"
+  ]
+}
